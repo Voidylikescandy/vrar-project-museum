@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4bcd1f3c0cecb4f4cbeffa0bebfb4a0b
+timeCreated: 1481557227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78188
+  packageName: Stalin Statue
+  packageVersion: 1.0
+  assetPath: Assets/Stalin/Prefab/Bronze.prefab
+  uploadId: 151006

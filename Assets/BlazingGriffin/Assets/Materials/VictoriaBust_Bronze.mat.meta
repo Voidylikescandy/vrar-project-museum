@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41c418c53637ba4478d22c26d3f24698
+timeCreated: 1538476560
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129905
+  packageName: Queen Victoria Bronze Bust
+  packageVersion: 1.0
+  assetPath: Assets/BlazingGriffin/Assets/Materials/VictoriaBust_Bronze.mat
+  uploadId: 275529

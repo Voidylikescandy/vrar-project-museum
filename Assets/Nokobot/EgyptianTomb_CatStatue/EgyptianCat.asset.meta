@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ad8449da189a1fc43afade16f1d27b65
+timeCreated: 1509451576
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119784
+  packageName: 'Egyptian Tomb: Cat Statue'
+  packageVersion: 1.0
+  assetPath: Assets/Nokobot/EgyptianTomb_CatStatue/EgyptianCat.asset
+  uploadId: 276674

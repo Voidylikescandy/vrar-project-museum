@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1609fc045200fb14294bfdd17cc92469
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119784
+  packageName: 'Egyptian Tomb: Cat Statue'
+  packageVersion: 1.0
+  assetPath: Assets/Nokobot/EgyptianTomb_CatStatue/01_Prefabs/Cat_Statue.prefab
+  uploadId: 276674

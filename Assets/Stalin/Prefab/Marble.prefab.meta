@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09c9fcbf75604364d9700bbbcd829b88
+timeCreated: 1481557227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78188
+  packageName: Stalin Statue
+  packageVersion: 1.0
+  assetPath: Assets/Stalin/Prefab/Marble.prefab
+  uploadId: 151006

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3515349f69ae6d341b5f9e2eecdfb221
+timeCreated: 1462708411
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63132
+  packageName: Golden Dragon Statue
+  packageVersion: 1.0
+  assetPath: Assets/DragonStatue/DragonStatue_LOD2.prefab
+  uploadId: 118404

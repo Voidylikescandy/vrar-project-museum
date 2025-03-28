@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0b48cbf3bac49740987f05186414091
+timeCreated: 1481557227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78188
+  packageName: Stalin Statue
+  packageVersion: 1.0
+  assetPath: Assets/Stalin/Prefab/Steel.prefab
+  uploadId: 151006

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bdacb05b30fe66408fbb27963aa9030
+timeCreated: 1462706682
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63132
+  packageName: Golden Dragon Statue
+  packageVersion: 1.0
+  assetPath: Assets/DragonStatue/DragonStaueCube.cubemap
+  uploadId: 118404

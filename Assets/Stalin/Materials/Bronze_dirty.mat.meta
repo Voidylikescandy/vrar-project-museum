@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6afc119ed37b064ebf220e4d07183e4
+timeCreated: 1481553999
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78188
+  packageName: Stalin Statue
+  packageVersion: 1.0
+  assetPath: Assets/Stalin/Materials/Bronze_dirty.mat
+  uploadId: 151006

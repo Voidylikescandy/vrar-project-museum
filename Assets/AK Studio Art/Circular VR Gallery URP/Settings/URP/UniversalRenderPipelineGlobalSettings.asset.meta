@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0c4527bca961b948ad2144e376464e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260392
+  packageName: Circular VR Gallery URP
+  packageVersion: 1.0
+  assetPath: Assets/AK Studio Art/Circular VR Gallery URP/Settings/URP/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 683560

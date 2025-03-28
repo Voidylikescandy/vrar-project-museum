@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1e4ef7731522f540afceb63d8ed226c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196390
+  packageName: Creepy headless statue
+  packageVersion: 1.0
+  assetPath: Assets/CreepyHeadlessStatue/prefabs/hdrp/Creepy_headless_statueMetal.prefab
+  uploadId: 436135

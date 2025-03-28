@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cba49cfe953a444b9e31616f68ded26
+timeCreated: 1481557227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78188
+  packageName: Stalin Statue
+  packageVersion: 1.0
+  assetPath: Assets/Stalin/Prefab/Wood.prefab
+  uploadId: 151006

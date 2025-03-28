@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d431e38601a431b43b7462a351ba700f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196390
+  packageName: Creepy headless statue
+  packageVersion: 1.0
+  assetPath: Assets/CreepyHeadlessStatue/scenes/demo/bentBackground.mat
+  uploadId: 436135

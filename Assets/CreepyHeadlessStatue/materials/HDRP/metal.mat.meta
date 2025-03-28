@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4af57e4e81985b4b9dc3da65d75ecc0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196390
+  packageName: Creepy headless statue
+  packageVersion: 1.0
+  assetPath: Assets/CreepyHeadlessStatue/materials/HDRP/metal.mat
+  uploadId: 436135
